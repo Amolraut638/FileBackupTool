@@ -1,3 +1,16 @@
 .vscode
 settings.json
 tasks.json
+*.exe
+*.dll
+*.bin
+*.obj
+*.o
+*.class
+*.pyc
+*.zip
+*.tar
+*.rar
+*.7z
+dist/
+build/
